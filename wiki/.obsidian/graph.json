@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "[type:concept]",
+      "color": {
+        "a": 1,
+        "rgb": 4164342
+      }
+    },
+    {
+      "query": "[type:workshop]",
+      "color": {
+        "a": 1,
+        "rgb": 15111680
+      }
+    },
+    {
+      "query": "[type:guest_talk]",
+      "color": {
+        "a": 1,
+        "rgb": 3515860
+      }
+    },
+    {
+      "query": "[type:builders_club]",
+      "color": {
+        "a": 1,
+        "rgb": 13408767
+      }
+    },
+    {
+      "query": "[type:demo_day]",
+      "color": {
+        "a": 1,
+        "rgb": 13408767
+      }
+    },
+    {
+      "query": "[type:person]",
+      "color": {
+        "a": 1,
+        "rgb": 16771840
+      }
+    },
+    {
+      "query": "[type:theme]",
+      "color": {
+        "a": 1,
+        "rgb": 16777164
+      }
+    },
+    {
+      "query": "[type:blog_post]",
+      "color": {
+        "a": 1,
+        "rgb": 8947967
+      }
+    },
+    {
+      "query": "[type:podcast]",
+      "color": {
+        "a": 1,
+        "rgb": 16752762
+      }
+    },
+    {
+      "query": "[type:video]",
+      "color": {
+        "a": 1,
+        "rgb": 6724044
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.339322916666667,
+  "repelStrength": 8.22048611111111,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.0018893513283582,
+  "close": false
+}

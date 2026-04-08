@@ -1,0 +1,10 @@
+{
+  "userIgnoreFilters": [
+    "_index.md",
+    "_glossary.md",
+    "_map_of_content.md",
+    "_source_registry.md",
+    "_concept_list.md",
+    "Clippings/"
+  ]
+}

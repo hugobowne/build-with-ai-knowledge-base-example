@@ -1,0 +1,13 @@
+[project]
+name = "llm-kb"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "seaborn>=0.13.2",
+    "webvtt-py>=0.5.1",
+    "youtube-transcript-api>=1.2.4",
+    "yt-dlp>=2026.3.17",
+]

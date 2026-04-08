@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "132db0c8e0e8c8a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f74e1adde3384b27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23d909ea534f7675",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8f6e0fccf7fac681",
+    "type": "split",
+    "children": [
+      {
+        "id": "03cbcc3f82d4ebe1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d548e5c998e7509c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ae511cff7926f70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "795e1ae78ed23b5c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cbdf34bf6b551999",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b95640b9739a18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d0f08d9e4e25b52",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "d3f6b803a50335c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "063cae3c25ae9485",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "64deb580a8ed05fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a1beedf3b0508a39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "23d909ea534f7675",
+  "lastOpenFiles": [
+    "people/anonymized_student_y.md",
+    "people/anonymized_student_x.md",
+    "sources/ws_8_finetuning_and_production_ai.md",
+    "sources/ws_7_workflows_multiagent_and_context_engineering.md",
+    "sources/ws_6_building_ai_agents.md",
+    "sources/ws_5_context_engineering_and_information_retrieval.md",
+    "sources/ws_4_testing_and_observability.md",
+    "sources/ws_3_evals_and_feedback_loops.md",
+    "sources/ws_2_prompting_and_context.md",
+    "sources/ws_1_foundations.md",
+    "sources/william_horton_maven_clinic.md",
+    "sources/thinking_tools_eric_ma.md",
+    "sources/search_agents_john_doug.md",
+    "sources/next_level_evals_stella_eddie.md",
+    "sources/natalia_ines_guest_workshop.md",
+    "sources/llm_architecture_rasbt.md",
+    "sources/katherine_jarmul_privacy.md",
+    "sources/deep_research_agent_ivan_leo.md",
+    "sources/builders_club_william_horton.md",
+    "sources/builders_club_natalia_murat.md",
+    "sources/builders_club_brad.md",
+    "sources/ai_products_google_ravin_kumar.md",
+    "people/eddie_wharton.md",
+    "sources/vg_rethinking_data_science.md",
+    "sources/vg_ai_transforming_software_creation.md",
+    "sources/vg_lessons_year_building_llms.md",
+    "Clippings",
+    "Untitled.canvas"
+  ]
+}
