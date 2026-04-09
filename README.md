@@ -1,8 +1,10 @@
 # LLM Knowledge Base
 
-This knowledge base comes from the fifth and final quarter of our [Building AI Applications for Data Scientists and Software Engineers -- from First Principles](https://maven.com/hugo-stefan/building-ai-apps-ds-and-swe-from-first-principles) course on Maven.
+This knowledge base comes from the fifth and final quarter of our [Building AI Applications for Data Scientists and Software Engineers from First Principles](https://maven.com/hugo-stefan/building-ai-apps-ds-and-swe-from-first-principles) course on Maven.
 
 A structured knowledge base compiled from ~36 hours of AI/ML content: course workshops, guest talks, builders club sessions, and a demo day. Speakers include Sebastian Raschka, Ines Montani, Katharine Jarmul, Ravin Kumar (Google DeepMind), Ivan Leo (Google DeepMind), Eric Ma (Moderna), William Horton (Maven Clinic), Stella Liu, Eddie Landesberg, John Berryman, Doug Turnbull, and many others.
+
+Here's a [video walkthrough](https://www.loom.com/share/32c3c4d400ae4c73959cc4c6b11ca3bc) showing the knowledge base in action. The video also shows workshop slides and annotated code examples that we've since added to the wiki. Those aren't in this repository.
 
 The wiki is ready to use. Clone the repo, open `wiki/` as an [Obsidian](https://obsidian.md/) vault, and start exploring.
 
@@ -51,9 +53,11 @@ wiki/                       # The Obsidian vault: open this in Obsidian
   _map_of_content.md        # Concepts grouped by theme
   _glossary.md              # Key terms and definitions
   _logs/                    # Compilation and lint logs
-raw/                        # Source material (transcripts, blog posts), not committed
+raw/                        # Source material (not included -- see note below)
 scripts/                    # Python utilities for ingesting new content
 ```
+
+**Note on raw materials:** The `raw/` directory (transcripts, cleaned markdown, course repository) is not included in this repo. The wiki is the compiled output, containing summaries and concept articles derived from those sources. If you're a course participant, you have access to the original materials through the course platform.
 
 ## Key principles
 
