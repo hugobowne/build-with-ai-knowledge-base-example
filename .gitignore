@@ -3,3 +3,9 @@ raw/
 __pycache__/
 *.pyc
 .python-version
+
+# Quartz
+node_modules/
+public/
+.quartz-cache/
+prof/
