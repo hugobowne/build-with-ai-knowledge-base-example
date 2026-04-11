@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - quartz-test
 
 permissions:
   contents: read
